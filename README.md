@@ -55,3 +55,5 @@ This data set consists of the following two columns:
 **Simple CNN model** 20 epochs validation accuracy - 50% accuracy score(100* f1_score) on test set - **43.97087**
 
 **CNN model with data augumentation** 20 epochs validation accuracy - 46.64% accuracy score(100*f1_score) on test set - **45.08884**
+
+**Transfer Learning using InceptionV3 with imagenet weights with data augmentation** 300 epochs validation accuracy - 45% accuracy score(100*f1_score) on test set - **50.53374**
