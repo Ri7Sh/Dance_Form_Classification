@@ -3,6 +3,7 @@
 Hackerearth Deep Learning Challenge - Identify the dance form
 
 
+
 *Problem statement*
 This International Dance Day, an event management company organized an evening of Indian classical dance performances to celebrate the rich, eloquent, and elegant art of dance. After the event, the company plans to create a microsite to promote and raise awareness among people about these dance forms. However, identifying them from images is a difficult task.
 
